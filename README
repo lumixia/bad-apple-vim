@@ -1,0 +1,7 @@
+在该目录 用VIM打开badapple.vim 
+
+输入:
+
+:so %
+
+开始执行
